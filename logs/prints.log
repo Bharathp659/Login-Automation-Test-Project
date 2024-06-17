@@ -1,0 +1,6 @@
+18:37:03.496 [TestNG-test=Test-2] DEBUG test.LoginTest - enters passswor in filed
+18:37:06.785 [TestNG-test=Test-2] DEBUG test.LoginTest - click on login button
+18:37:07.140 [TestNG-test=Test-2] DEBUG test.LoginTest - User got logged in
+18:37:07.140 [TestNG-test=Test-2] INFO  test.LoginTest - Login Test got passed
+18:37:07.142 [TestNG-test=Test-2] DEBUG test.LoginTest - Browser got closed
+18:37:07.530 [TestNG-test=Test-1] DEBUG test.LoginTest - Browser got closed
